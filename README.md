@@ -1,9 +1,9 @@
 # Curso de Next.JS
 
-<center>
+<p align="center">
 <img src="./imagens/Apresentacao.png" alt="Tela incial" width="400px"></img>
 <!-- <img src="./imagens/Movimentacao.gif" alt="Aplicação funcionando" width="421px"></img> -->
-</center>
+</p>
 
 ## 🤔 O que é este projeto
 
